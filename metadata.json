@@ -1,0 +1,7 @@
+{
+  "name": "Adaptiv - Adaptive Nutrition & Fitness Agent",
+  "description": "Persistent personal nutrition and fitness agent that observes real-world intake, detects goal gaps, and continuously adapts your plan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
